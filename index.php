@@ -91,8 +91,4 @@
 </body>
 </html>
 
-<?php 
 
-/*include("conexao.php");
-echo "Olá";*/
-?>
