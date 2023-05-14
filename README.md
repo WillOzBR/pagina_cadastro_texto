@@ -14,8 +14,10 @@
 
 <h3>Página</h3>
 <p>Botões e elementos da tabela possuem uma animação quando sobrepostos pelo ponteiro.</p>
-![print_tabela](https://github.com/WillOzBR/pagina_cadastro_texto/assets/73302187/883578b6-0da1-4e1c-bdcf-67fd5d911fe5)
+
+![print_tabela](https://github.com/WillOzBR/pagina_cadastro_texto/assets/73302187/ddc55eb9-9a1a-4d18-b8e4-7d3bc127910a)
 
 <h3>Tabela MySQL</h3>
-![tabela_pagina](https://github.com/WillOzBR/pagina_cadastro_texto/assets/73302187/b2f4e649-242a-46fe-9370-bcc3310ab0f7)
+
+![tabela_pagina](https://github.com/WillOzBR/pagina_cadastro_texto/assets/73302187/9d5fda27-8ce6-4b13-8626-27cc2dcab181)
 
